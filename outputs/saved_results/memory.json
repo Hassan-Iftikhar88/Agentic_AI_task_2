@@ -1,0 +1,177 @@
+[
+  {
+    "topic": "YOLOv8 helmet detection project",
+    "platform": "LinkedIn",
+    "tone": "Professional but exciting",
+    "idea": "We\u2019re using YOLOv8\u2019s real-time inference to identify helmet use *before* an accident \u2013 visualizing the impact on pedestrian safety in urban environments.",
+    "time": "2026-11-07T16:28:34"
+  },
+  {
+    "topic": "YOLOv8 helmet detection",
+    "platform": "LinkedIn",
+    "tone": "Professional",
+    "idea": "Analyzing the failure cases of our YOLOv8 helmet detection reveals surprising biases in training data related to helmet styles; this informs a robust, inclusive approach to future development.",
+    "time": "2026-11-07T16:52:48"
+  },
+  {
+    "topic": "AI internship experience",
+    "platform": "LinkedIn",
+    "tone": "Motivational",
+    "idea": "I built a predictive model that actually *failed* spectacularly, and the lessons learned about edge cases were more valuable than any success.",
+    "time": "2026-11-07T16:58:20"
+  },
+  {
+    "topic": "Python learning journey",
+    "platform": "Instagram",
+    "tone": "Funny",
+    "idea": "My Python code currently thinks \u201cHello World\u201d is a personal insult.",
+    "time": "2026-11-07T17:06:24"
+  },
+  {
+    "topic": "Machine learning project",
+    "platform": "X/Twitter",
+    "tone": "Short and catchy",
+    "idea": "Built a ML project that now writes poetry. \ud83e\udd16\u270d\ufe0f",
+    "time": "2026-11-07T17:12:55"
+  },
+  {
+    "topic": "Data annotation struggles",
+    "platform": "LinkedIn",
+    "tone": "Humorous",
+    "idea": "My data annotation team\u2019s motto: \u2018We\u2019re not building AI, we\u2019re meticulously documenting its existential crisis.\u2019",
+    "time": "2026-11-07T17:19:02"
+  },
+  {
+    "topic": "Model failed in production",
+    "platform": "Instagram",
+    "tone": "Meme style",
+    "idea": "Video: Rapid montage of a model awkwardly posing, culminating in them tripping over a prop, with a dramatic, over-the-top \"wah-wah\" sound effect. Text: \"Production: 'Smile!' Me: *exists*.\"",
+    "time": "2026-11-07T17:28:56"
+  },
+  {
+    "topic": "Final year project",
+    "platform": "LinkedIn",
+    "tone": "Professional",
+    "idea": "Successfully navigated the ethical considerations surrounding [Specific Project Application \u2013 e.g., automated recruitment] by implementing [Concrete Mitigation Strategy] \u2013 a crucial lesson learned during the development.",
+    "time": "2026-11-07T17:35:07"
+  },
+  {
+    "topic": "Computer vision project",
+    "platform": "YouTube Shorts",
+    "tone": "Exciting",
+    "idea": "Unexpected result demo",
+    "time": "2026-11-07T17:43:17"
+  },
+  {
+    "topic": "Debugging FastAPI",
+    "platform": "X/Twitter",
+    "tone": "Funny",
+    "idea": "My FastAPI server is screaming at me in logs, but the error message is just a cryptic \u2018TypeError\u2019 - I\u2019m pretty sure it\u2019s judging my life choices.",
+    "time": "2026-11-07T17:49:53"
+  },
+  {
+    "topic": "Open-source contribution",
+    "platform": "LinkedIn",
+    "tone": "Inspirational",
+    "idea": "That small code fix you made today could be the foundation for a global impact \u2013 visualize the ripple effect of your open-source work.",
+    "time": "2026-11-07T17:55:14"
+  },
+  {
+    "topic": "Model failed in production",
+    "platform": "Instagram",
+    "tone": "Meme style",
+    "idea": "\u201cThe model was perfect\u2026 until I accidentally deployed the version trained on 2012 data. \ud83d\udcc9 #DataDrift #MLNightmare\u201d",
+    "time": "2026-11-07T18:29:36"
+  },
+  {
+    "topic": "Model failed in production",
+    "platform": "Instagram",
+    "tone": "Meme style",
+    "idea": "My model was designed to optimize ad revenue. Now it's exclusively showing ads for self-help books. \ud83e\udd26\u200d\u2642\ufe0f\ud83d\udcda",
+    "time": "2026-11-07T18:41:16"
+  },
+  {
+    "topic": "Model failed in production",
+    "platform": "Instagram",
+    "tone": "Meme style",
+    "idea": "Me explaining my model's architecture to the stakeholders... then it just randomly predicted the weather in Antarctica. \u2744\ufe0f \ud83d\uddfa\ufe0f",
+    "time": "2026-11-08T16:13:30"
+  },
+  {
+    "topic": "Model failed in production",
+    "platform": "Instagram",
+    "tone": "Meme style",
+    "idea": "The validation set was optimistic. The production data wasn\u2019t.",
+    "time": "2026-11-08T16:35:40"
+  },
+  {
+    "topic": "YOLOv8 helmet detection",
+    "platform": "LinkedIn",
+    "tone": "Professional",
+    "idea": "Evaluating YOLOv8\u2019s ability to handle occluded helmet detections \u2013 presenting a novel post-processing method leveraging contextual reasoning for enhanced reliability.",
+    "time": "2026-11-08T16:58:41"
+  },
+  {
+    "topic": "AI internship experience",
+    "platform": "LinkedIn",
+    "tone": "Motivational",
+    "idea": "The biggest surprise wasn\u2019t the code, but witnessing firsthand how a seemingly minor data preprocessing choice dramatically shifted a model\u2019s accuracy.",
+    "time": "2026-11-08T17:01:46"
+  },
+  {
+    "topic": "Python learning journey",
+    "platform": "Instagram",
+    "tone": "Funny",
+    "idea": "Spent three hours debugging a single semicolon. My therapist recommended a different hobby.",
+    "time": "2026-11-08T17:05:04"
+  },
+  {
+    "topic": "Machine learning project",
+    "platform": "X/Twitter",
+    "tone": "Short and catchy",
+    "idea": "Model trained to predict stock market volatility using only historical data \u2013 surprisingly accurate fluctuations.",
+    "time": "2026-11-08T17:08:35"
+  },
+  {
+    "topic": "Data annotation struggles",
+    "platform": "LinkedIn",
+    "tone": "Humorous",
+    "idea": "My \u2018perfectly labeled\u2019 dataset now has a sentient disagreement with the bounding box algorithm.",
+    "time": "2026-11-08T17:12:18"
+  },
+  {
+    "topic": "Model failed in production",
+    "platform": "Instagram",
+    "tone": "Meme style",
+    "idea": "\u201cIt\u2019s bleeding edge\u201d \u2013 the production logs said.",
+    "time": "2026-11-08T17:16:22"
+  },
+  {
+    "topic": "Final year project",
+    "platform": "LinkedIn",
+    "tone": "Professional",
+    "idea": "Ethical considerations surrounding bias detection in our predictive policing model, focusing specifically on the limitations of current fairness metrics and the importance of continual monitoring.",
+    "time": "2026-11-08T17:20:33"
+  },
+  {
+    "topic": "Computer vision project",
+    "platform": "YouTube Shorts",
+    "tone": "Exciting",
+    "idea": "The initial detection rate for autonomous vehicle pedestrian recognition was shockingly low \u2013 here\u2019s how we fixed it.",
+    "time": "2026-11-08T17:25:11"
+  },
+  {
+    "topic": "Debugging FastAPI",
+    "platform": "X/Twitter",
+    "tone": "Funny",
+    "idea": "My FastAPI logs told me the biggest secret: it was overwhelmed by love (for validation errors).",
+    "time": "2026-11-08T17:28:47"
+  },
+  {
+    "topic": "Open-source contribution",
+    "platform": "LinkedIn",
+    "tone": "Inspirational",
+    "idea": "Seeing my initial code integrated into a widely-used library ignited a deeper commitment to shared knowledge and accelerated progress.",
+    "time": "2026-11-08T17:32:40"
+  }
+]
