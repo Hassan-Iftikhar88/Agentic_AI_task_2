@@ -48,6 +48,7 @@ Agent returns the final answer
    venv\Scripts\activate
    pip install -r requirements.txt
    ```
+4. Make sure Ollama is running (open the Ollama app, or run `ollama serve`) before starting the demo.
 
 ## How to run
 
