@@ -83,6 +83,10 @@ Before and after the prompt and code fixes (same input, test 6): `screenshots/be
 - Tests 4 to 10 went through one review-and-revise round. Tests 1 to 3 scored 8/10 on the first try.
 - The best results were the funny Python post with its reel script (test 3) and the production-failure post (test 6). The weakest were vague topics, where the model invented details, and humor on X and LinkedIn.
 - The model's own review score (7 to 8 out of 10) was not a reliable measure of quality, because it gave 8/10 to posts with unrelated titles.
+## Project history
+
+- `app/old/` keeps the first versions of the prompts and tools, from before the fixes described in the error analysis.
+- `outputs/saved_results/before_fix/` and `tests/test_cases_before_fix.md` hold the outputs from the first version, for comparison with the final version.
 
 ## Error analysis
 
