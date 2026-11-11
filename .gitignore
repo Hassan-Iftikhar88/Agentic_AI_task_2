@@ -2,3 +2,5 @@ venv/
 .env
 __pycache__/
 *.pyc
+app/old/
+report/LINKEDIN_REPORT.md
